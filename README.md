@@ -8,7 +8,7 @@
 ## Introduction
 
 The site was designed by adhering similar samples given. All codes and style steps was realized and designed from the beginning.
-During education process, it was #challenge6# for me[Uploading responsive.css…]()
+During education process, it was #challenge7# for me[Uploading responsive.css…]()
 
 
 Here is an image-part of website that made:

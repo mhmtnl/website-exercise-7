@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600&display=swap');
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+* {font-family: 'Bai Jamjuree', sans-serif;}
+a, p, li { font-size: 18px; font-weight: bold; line-height:2;}
+#cyan {background-color: hsl(171, 66%, 44%);} 
+#cyan:hover {background-color: hsl(171, 66%, 44%); opacity: 70%;} 
+#blue {background-color: hsl(233, 100%, 69%)}
+#blue:hover {background-color: hsl(233, 100%, 69%); opacity: 70%;} 
+section, footer {margin-top: 150px;}
+footer ul a {color: rgb(94, 94, 94);} footer a:hover {color: hsl(171, 66%, 44%) }
+i {color: rgb(94, 94, 94);transform: scale(2.5)}
+i:hover {cursor: pointer; color:hsl(171, 66%, 44%)}
+
+@media screen and ( max-width : 850px ) {
+    p,li {text-align: center !important}
+    ul#logo {display: flex;flex-direction: column; justify-content: center;}
+    ul#logo img {margin-bottom: 40px; transform: scale(1.2)};
+    
+}
